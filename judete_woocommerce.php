@@ -36,7 +36,7 @@ Author URI: http://cristache.net/
    $states['RO'] = array(
        'RO01' => 'Alba',
        'RO02' => 'Arad',
-       'RO03' => 'Argeș',
+       'RO031' => 'Argeș',
        'RO03' => 'Bacău',
        'RO04' => 'Bihor',
        'RO05' => 'Bistrița-Năsăud',
